@@ -1,0 +1,13 @@
+.DS_Store
+lib/blessings/
+lib/wwmgr/
+lib/examples/*
+lib/examples/stringmethodexamples
+*.pyc
+*.pyo
+*.so
+*.c
+*.swp
+*.dat
+*.png
+stringmethodexamples/*
